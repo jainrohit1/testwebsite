@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "8JZ5N6477Y.com.sectigo.sima", "UWY57U8NCD.com.sectigo.sima", "K794K384GD.app.shelfset.sima" ],
+             "components": [
+                {
+                  "/": "/customer/*/",
+                  "comment": "Matches any enrollment link"
+                },
+                {
+                  "/": "/customer/*/device/*",
+                  "comment": "Matches any enrollment link"
+                },
+             ]
+           }
+       ]
+   }
+}

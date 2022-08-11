@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.sectigo.sima",
+               "sha256_cert_fingerprints": ["8D:80:74:4A:58:3F:18:B6:F3:F1:0C:67:1A:42:3D:B5:5B:D8:92:B9:12:2F:D3:F6:8B:56:33:0F:47:8F:51:2D", "39:68:B9:2B:1B:80:A3:89:BB:2F:63:75:CD:F3:1E:70:98:D7:62:E8:77:4D:F7:42:3E:A0:A8:14:E7:F1:2F:CE"] }
+}]
