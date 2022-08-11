@@ -11,7 +11,7 @@
                 {
                   "/": "/customer/*/device/*",
                   "comment": "Matches any enrollment link"
-                },
+                }
              ]
            }
        ]
